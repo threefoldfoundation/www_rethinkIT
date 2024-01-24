@@ -9,52 +9,72 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(style="left" margin="none" reverse="rightreserve" padding="bottom") %}
+{% row(style="center" margin="withContainer" reverse="rightreserve" padding="both") %}
 
 <div class="px-4 md:px-16 lg:px-28">
 
-<br>
-<br>
+  # RethinkIT
 
-# h1 title
-## h2 subtitle
+  <p>Explore the limitless potential of DePIN (Decentralized Physical Infrastructure Networks). Join us in creating a future where communities govern and contribute to the development of real-world infrastructure networks, democratizing ownership and fostering a participatory economic model.</p>
 
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<button onclick="yourlink">
+  <button onclick="yourlink">
   button
-</button>
+  </button>
 
 </div>
 
-<br>
-
-|||
-
-![placeholder](./img/img_header.png#mx-auto)
-
 {% end %}
 
-<!-- section 2 (header) -->
+<!-- section 2 about -->
+
+{% row(style="left" margin="withContainer" padding="bottom") %}
 
 <div class="container mx-auto"> 
 
-{% row(style="center" margin="withContainer" padding="none") %}
+  ![](./img/img_portrait.png#mx-auto)
 
-## h2 h2 h2
+</div>
 
-### h3 h3 h3
+|||
+
+<div class="container mx-auto"> 
+
+  ## Pioneering Decentralized Computing
+
+  RethinkIT revolutionizes tech infrastructure, offering unmatched sovereignty and scalability. With 40+ years of global innovation, we lead the DePIN movement, harmonizing tradition with decentralized progress.
+
+  <br>
+
+  <button onclick="/about">Learn More</button>
+</div>
 
 {% end %}
+
+
+
+<!-- section 3 (TECH) -->
+
+{% row(style="center" margin="withContainer" padding="none") %}
+
+<div class="container mx-auto"> 
+
+  ## Our DePIN Technologies
+
+  <p>Explore RethinkIT's pioneering technology, enabling the global adoption of Decentralized Physical Infrastructure Networks (DePIN).</p>
+</div>
+
+{% end %}
+
+<!-- section 3 (TECH-ROW1) -->
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
 <div class="mx-4 my-4">
 
-![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/img_column_item.png#md#mx-auto)
 
-#### item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+ ### 3Nodes
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
 
 </div>
 
@@ -62,26 +82,39 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="mx-4 my-4">
 
-![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/img_column_item.png#md#mx-auto)
 
-#### item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column_item.png#md#mx-auto)
-
-#### item 3
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-
+  #### Zero-OS
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
 </div>
 
 {% end %}
 
-<!-- section 2 security -->
+<!-- section 3 (TECH-ROW2) -->
+
+{% row(style="center" margin="narrow" padding="bottom") %}
+
+<div class="mx-4 my-4">
+
+  ![Image](./img/img_column_item.png#md#mx-auto)
+
+  #### QSFS
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+  ![Image](./img/img_column_item.png#md#mx-auto)
+
+  #### Mycelium
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+</div>
+
+{% end %}
+
+<!-- section 4 solutions -->
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
@@ -89,12 +122,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 |||
 
-## h2h2h2
+## Transformative Solutions 
 
-### h3 subtitle
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam <br>
- <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br><br>
+<p>Explore how RethinkIT's innovative solutions address global infrastructure challenges, enabling self-sufficient internet systems and decentralized IT infrastructure.</p>
 
 <button onclick="yourlink">
   button
@@ -102,16 +132,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% end %}
 
-<!-- section 2 security -->
+<!-- section 5 news -->
 
 {% row(style="right" margin="withContainer" padding="bottom") %}
 
-## h2 h2 h2
+## RethinkIT News
 
-### h3 subtitle
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam <br>
- <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br><br>
+<p>Stay informed about the latest advancements, groundbreaking projects, and insightful articles. Dive into a wealth of information that highlights our commitment to innovation, technology, and the future of decentralized infrastructure networks.</p>
 
 <button onclick="yourlink">
   button
@@ -121,113 +148,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![placeholder](./img/img_section.png#mx-auto)
 
-
-
 {% end %}
 
-<!-- section 3 features title -->
+<!-- section 6 contact -->
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="narrow" padding="bottom") %}
 
-## middle title
-### subtitle
+<div class="container mx-auto">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+![placeholder](./img/img_section.png#mx-auto)
 
-<br>
+  ## Let's Connect!
 
-{% end %}
-
-{% row(style="center" margin="narrow" padding="none") %}
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+  <p>Our team is dedicated to fostering collaboration, innovation, and community engagement. Feel free to use the provided contact information or submit the online form. We look forward to hearing from you and exploring opportunities to create a decentralized and interconnected future together.</p>
 </div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-{% end %}
-
-<br>
-
-{% row(style="center" margin="narrow" padding="none") %}
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-{% end %}
-
-<!-- section 5 subscription -->
-
-{% row(style="left" margin="withContainer" padding="both") %}
-
-![](./img/img_portrait.png#mx-auto)
-
-|||
-
-## h2 h2 h2
-### h3 h3 h3 h3
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<br>
-
-<button onclick="yourlink">
-  button
-</button>
 
 {% end %}
 
