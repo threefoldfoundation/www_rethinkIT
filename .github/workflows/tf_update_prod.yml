@@ -1,0 +1,24 @@
+name: freezone.ourworld.tf
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  job_one:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: pushing latest change on freezone.ourworld.tf
+      uses: appleboy/ssh-action@master
+      with:
+        host: freezone.ourworld.tf
+        username: ${{ secrets.TF_USER }}
+        key: ${{ secrets.TF_SECRET }}
+        port: ${{ secrets.TF_PORT }}
+        script: |
+          cd websites/www_ourworld_freezone/
+          git log -1
+          git fetch
+          git reset --hard origin/master
+          sed -i "s/https:\/\/www2.freezone.ourworld.tf/https:\/\/freezone.ourworld.tf/g" config.toml
+          ./build.sh
