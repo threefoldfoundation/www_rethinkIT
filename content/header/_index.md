@@ -7,9 +7,9 @@ extra:
   logoPath: "/images/logo.png"
   imgPath: ""
 ---
-
-- [Info]("https://ourworldfreezone.github.io/info_freezone/intro/intro_readme.html")
-- [News]("/newsroom")
-- [Blog]("/blog")
-- [Team]("/people")
-- [Contact]("mailto:info@ourworld.tf")
+- [Home]("/")
+- [About]("/about")
+- [Technologies]("/technologies")
+- [Solutions]("/solutions")
+- [News]("/blog")
+- [Contact]("/contact")
