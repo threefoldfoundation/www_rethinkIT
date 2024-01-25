@@ -13,3 +13,4 @@ extra:
 - [Solutions]("/solutions")
 - [News]("/blog")
 - [Contact]("/contact")
+- [People]("/people")
