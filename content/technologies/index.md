@@ -17,6 +17,8 @@ weight: 1
 
   <p>In a world of rapid technological change, traditional approaches no longer suffice. RethinkIT has created a technology layer to make DePIN feasible and effective on a global scale. Our solutions prioritize security, efficiency, and sustainability. By choosing to RethinkIT, businesses and individuals align with a vision that is not just about meeting today's needs but proactively shaping a more advanced and sustainable digital future. </p>
 
+  ![Image](./img/cloud.png#mx-auto)
+
 </div>
 
 {% end %}
@@ -122,7 +124,7 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/mycelium.png#mx-auto)
+![placeholder](./img/mycelium2.png#mx-auto)
 
 |||
 

@@ -13,7 +13,7 @@ weight: 1
 
 <div class="px-4 md:px-16 lg:px-28">
 
-![Image](./img/map.png#mx-auto)
+![Image](./img/map2.png#mx-auto)
 
   # RethinkIT
 
@@ -72,7 +72,8 @@ weight: 1
   ![Image](./img/node.png#md#mx-auto)
 
  ### 3Nodes
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  Cutting-edge hardware units, eco-friendly, self-sustaining, and versatile for diverse applications, enhancing security and data privacy
+
 
 </div>
 
@@ -83,7 +84,8 @@ weight: 1
   ![Image](./img/zero.png#md#mx-auto)
 
   #### Zero-OS
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  Innovative OS for decentralized efficiency and security. Lightweight, secure, adaptable—pioneering the future of computing
+
 </div>
 
 {% end %}
@@ -97,17 +99,17 @@ weight: 1
   ![Image](./img/quantum.png#md#mx-auto)
 
   #### QSFS
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  Revolutionizing data security. 10x efficiency, immune to quantum attacks—RethinkIT's commitment to ultra-secure storage
 </div>
 
 |||
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/mycelium.png#md#mx-auto)
+  ![Image](./img/mycelium2.png#md#mx-auto)
 
   #### Mycelium
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  Innovative overlay network for efficient, secure data communication. Fortified with end-to-end encryption
 </div>
 
 {% end %}
@@ -122,7 +124,7 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/city4.png#mx-auto)
+![placeholder](./img/city6.png#mx-auto)
 
 |||
 

@@ -13,10 +13,9 @@ weight: 2
 
 <div class="px-4 md:px-16 lg:px-28">
 
+![Image](./img/world.png#md#mx-auto)
 
   # About Us
-
-  ![Image](./img/datacenter.png#md#mx-auto)
 
   <p>RethinkIT is an innovative software technology company that has built a decentralized, autonomous, computing platform. Our unique technology provides unparalleled sovereignty, scalability and efficiency features that emerging IT workloads require, and that traditional cloud infrastructures cannot deliver.</p>
 
@@ -30,7 +29,7 @@ weight: 2
 
 <div class="container mx-auto"> 
 
-  ![](./img/img_section.png#mx-auto)
+  ![](./img/codingman.png#mx-auto)
 
 </div>
 
@@ -64,6 +63,8 @@ weight: 2
 <div class="container mx-auto"> 
 
   ## Our History
+
+   ![Image](./img/moon4.png#md#mx-auto)
 
   <p>RethinkIT has been at the forefront of solving global internet challenges, boasting a visionary team with 30+ years of experience. Our history is marked by seven successful exits, multiple world records, and a trail of groundbreaking inventions, from scalable content routing to Zeta-Byte storage systems. With a global impact that spans scaling websites during the internet's infancy to delivering cutting-edge data center solutions, we've consistently tackled complex challenges, leaving an indelible mark on the tech landscape for over four decades.</p>
 </div>
@@ -153,11 +154,11 @@ weight: 2
 <p>OurWorld, is a distinguished Venture Creator with a track record of innovation and success. With seven exits in the last two decades within the high-tech storage and cloud space, OurWorld has been a catalyst for groundbreaking projects through its subsidiary, Incubaid.
 </p>
 
-<button>[Donate](https://ourworld.tf/)</button>
+<button>[Learn More](https://ourworld.tf/)</button>
 
 |||
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/ourworld2.png#mx-auto)
 
 {% end %}
 
