@@ -9,79 +9,20 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(style="left" margin="none" reverse="rightreserve" padding="bottom") %}
+{% row(style="center" reverse="rightreserve" padding="both" style="center" margin="withcontainer") %}
 
 <div class="px-4 md:px-16 lg:px-28">
 
-<br>
-<br>
+  # RethinkIT's Solutions and Use cases.
 
-# h1 title
-## h2 subtitle
-
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<button onclick="yourlink">
-  button
-</button>
+  <p> Discuss the challenges faced by existing infrastructure, innovative solutions proposed by RethinkIT, <br>
+  and showcase real-world applications of DePIN. </p>
 
 </div>
-
-<br>
-
-|||
-
-![placeholder](./img/img_header.png#mx-auto)
 
 {% end %}
 
 <!-- section 2 (header) -->
-
-<div class="container mx-auto"> 
-
-{% row(style="center" margin="withContainer" padding="none") %}
-
-## h2 h2 h2
-
-### h3 h3 h3
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column_item.png#md#mx-auto)
-
-#### item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column_item.png#md#mx-auto)
-
-#### item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column_item.png#md#mx-auto)
-
-#### item 3
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-
-</div>
-
-{% end %}
-
-<!-- section 2 security -->
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
@@ -89,16 +30,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 |||
 
-## h2h2h2
+## Challenges in Current Infrastructure
 
-### h3 subtitle
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam <br>
- <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br><br>
-
-<button onclick="yourlink">
-  button
-</button>
+Global economic impacts due to suboptimal internet infrastructure are profound. Countries face substantial losses due to the lack of a self-sufficient internet system. DePIN has the potential to reverse this trend, and give enough Storage, Network, Compute and AI capacity locally in a country. This situation highlights a broader issue where traditional data center models (Tier 3/4) are increasingly inadequate for current technological demands, including DePIN and AI advancements. Furthermore, the limitations of protocol-based DePIN solutions pose a challenge. These solutions, lacking scalability and integration, fail to meet the needs of a globally connected digital future. The necessity for a unified, autonomous IT infrastructure, capable of seamlessly integrating AI, compute, storage, and network capacity on a large scale, is more apparent than ever. This situation demands a rethinking of how we deliver and manage digital infrastructure to avoid fragmentation and inefficiency.
 
 {% end %}
 
@@ -106,15 +40,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% row(style="right" margin="withContainer" padding="bottom") %}
 
-## h2 h2 h2
+## Innovative Solutions by RethinkIT
 
-### h3 subtitle
+RethinkIT has created a Technology layer to make DePIN feasible and effective on a global scale.
+Our solution encompasses an ultra-scalable, peer-to-peer technology stack with zero centralization, aligning with both governmental and large enterprise needs. This flexibility extends to compatibility with crypto environments and heavily regulated, certified organizations. Our stack's versatility allows deployment across various use cases, demonstrating our commitment to providing flexible and adaptable IT solutions for a wide range of industries and applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam <br>
- <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br><br>
+|||
 
-<button onclick="yourlink">
-  button
+![placeholder](./img/img_section.png#mx-auto)
+
+
+
+{% end %}
+
+<!-- section 3 features title -->
+
+{% row(style="left" margin="withContainer" padding="bottom") %}
+
+![placeholder](./img/img_section.png#mx-auto)
+
+|||
+
+## DePIN in Action: Real-World Applications
+#### ThreeFold DePIN network
+
+Our technology powers ThreeFold, a decentralized DePIN project that has achieved remarkable scalability. Our third-generation software, deployed within the project, has demonstrated its ability to facilitate network expansion and widespread utilization. Today, this network stands as the largest of its kind globally. It not only exemplifies the power of our technology but also signifies a groundbreaking shift towards a more decentralized, efficient, and accessible internet ecosystem that empowers users worldwide.
+
+<button onclick="https://www.threefold.io/ ">
+  Discover ThreeFold
+</button>
+
+{% end %}
+
+<!-- section 4 security -->
+
+{% row(style="right" margin="withContainer" padding="bottom") %}
+
+## Country Level Internet Infrastructure
+
+RethinkIT's technology plays a pivotal role in Tanzania's ambitious mission to establish its sovereign internet infrastructure. This initiative is a remarkable game-changer for Tanzania, as the nation faces annual economic losses surpassing $10 billion due to its reliance on external internet infrastructure. By harnessing RethinkIT's advanced solutions, Tanzania is taking control of its digital destiny, reducing economic leakage, and bolstering its technological sovereignty. This strategic move empowers Tanzania to drive economic growth, enhance national security, and create a more resilient and self-reliant digital ecosystem.
+
+<button onclick="https://www.thecitizen.co.tz/tanzania/news/national/sovereign-internet-a-game-changer-to-tanzania-startups-ecosystem-growth-4498060">
+  Learn more
 </button>
 
 |||
@@ -127,106 +94,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- section 3 features title -->
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="left" margin="withContainer" padding="bottom") %}
 
-## middle title
-### subtitle
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-
-<br>
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="none") %}
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
+![placeholder](./img/img_section.png#mx-auto)
 
 |||
 
-<div class="mx-4 my-4">
+## Backbone for a new digital freezone
 
-![Image](./img/img_column.png#sm#mx-auto)
+Zanzibar is using our technology infrastructure as the cornerstone for the development of a cutting-edge digital freezone. Leveraging our advanced solutions, Zanzibar aims to create a thriving ecosystem that fosters innovation, digital entrepreneurship, and economic growth. This initiative represents a bold step towards harnessing the power of technology to drive economic transformation and position Zanzibar as a hub for digital innovation and commerce.
 
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-{% end %}
-
-<br>
-
-{% row(style="center" margin="narrow" padding="none") %}
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-{% end %}
-
-<!-- section 5 subscription -->
-
-{% row(style="left" margin="withContainer" padding="both") %}
-
-![](./img/img_portrait.png#mx-auto)
-
-|||
-
-## h2 h2 h2
-### h3 h3 h3 h3
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<br>
-
-<button onclick="yourlink">
-  button
+<button onclick="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-seeks-to-become-digital-freezone--4316150 
+https://www2.threefold.io/newsroom/digitalfreezonezanzibar/ ">
+  Learn more
 </button>
 
 {% end %}
