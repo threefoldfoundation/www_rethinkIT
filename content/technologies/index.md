@@ -15,11 +15,7 @@ weight: 1
 
   # RethinkIT's Technology
 
-  <p>Discover RethinkIT’s pioneering technology, driving innovation with cutting-edge solutions. Our company has created a technology layer to make DePIN, "Decentralized Physical Infrastructure Networks”,  feasible and effective on a global scale. </p>
-
-  <button onclick="yourlink">
-  button
-  </button>
+  <p>In a world of rapid technological change, traditional approaches no longer suffice. RethinkIT has created a technology layer to make DePIN feasible and effective on a global scale. Our solutions prioritize security, efficiency, and sustainability, offering a fresh perspective on how IT infrastructure can be more adaptive, resilient, and future-ready. By choosing to RethinkIT, businesses and individuals align with a vision that is not just about meeting today's needs but proactively shaping a more advanced and sustainable digital future. </p>
 
 </div>
 
@@ -67,7 +63,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/node.png#mx-auto)
 
 {% end %}
 
@@ -76,7 +72,7 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/zero.png#mx-auto)
 
 |||
 
@@ -109,7 +105,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/quantum.png#mx-auto)
 
 {% end %}
 
@@ -118,7 +114,7 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/mycelium.png#mx-auto)
 
 |||
 
@@ -135,17 +131,3 @@ weight: 1
 
 {% end %}
 
-<!-- section 6 contact -->
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-<div class="container mx-auto">
-
-![placeholder](./img/img_section.png#mx-auto)
-
-  ## Why RethinkIT
-
-  <p>In a world of rapid technological change, traditional approaches no longer suffice. RethinkIT leads this transformation with innovative technologies like 3Nodes, Zero-OS, Quantum Safe Storage, and Mycelium. These solutions prioritize security, efficiency, and sustainability, offering a fresh perspective on how IT infrastructure can be more adaptive, resilient, and future-ready. By choosing to RethinkIT, businesses and individuals align with a vision that is not just about meeting today's needs but proactively shaping a more advanced and sustainable digital future.</p>
-</div>
-
-{% end %}

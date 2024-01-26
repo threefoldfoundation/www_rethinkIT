@@ -13,10 +13,12 @@ weight: 2
 
 <div class="px-4 md:px-16 lg:px-28">
 
+
   # About RethinkIT
 
-  <p>RethinkIT is an innovative software technology company that has built a decentralized, autonomous, computing platform. Our unique technology provides unparalleled sovereignty, scalability and efficiency features that emerging IT workloads require, and that traditional cloud infrastructures cannot deliver.</p>
+  ![Image](./img/datacenter.png#md#mx-auto)
 
+  <p>RethinkIT is an innovative software technology company that has built a decentralized, autonomous, computing platform. Our unique technology provides unparalleled sovereignty, scalability and efficiency features that emerging IT workloads require, and that traditional cloud infrastructures cannot deliver.</p>
 
 </div>
 
@@ -28,7 +30,7 @@ weight: 2
 
 <div class="container mx-auto"> 
 
-  ![](./img/img_portrait.png#mx-auto)
+  ![](./img/img_section.png#mx-auto)
 
 </div>
 

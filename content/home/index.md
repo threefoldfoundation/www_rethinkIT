@@ -13,6 +13,8 @@ weight: 1
 
 <div class="px-4 md:px-16 lg:px-28">
 
+![Image](./img/map.png#mx-auto)
+
   # RethinkIT
 
   <p>Explore the limitless potential of DePIN (Decentralized Physical Infrastructure Networks). Join us in creating a future where communities govern and contribute to the development of real-world infrastructure networks, democratizing ownership and fostering a participatory economic model.</p>
@@ -31,7 +33,7 @@ weight: 1
 
 <div class="container mx-auto"> 
 
-  ![](./img/img_portrait.png#mx-auto)
+  ![](./img/datacenter.png#mx-auto)
 
 </div>
 
@@ -71,7 +73,7 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/node.png#md#mx-auto)
 
  ### 3Nodes
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -82,7 +84,7 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/zero.png#md#mx-auto)
 
   #### Zero-OS
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -96,7 +98,7 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/quantum.png#md#mx-auto)
 
   #### QSFS
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -106,7 +108,7 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/mycelium.png#md#mx-auto)
 
   #### Mycelium
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -118,7 +120,7 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/city4.png#mx-auto)
 
 |||
 
@@ -146,7 +148,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/news.png#mx-auto)
 
 {% end %}
 
