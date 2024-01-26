@@ -47,7 +47,9 @@ weight: 1
 
   <br>
 
-  <button onclick="/about">Learn More</button>
+ 
+<button>[Learn More](https://www.techopedia.com/definition/decentralized-physical-infrastructure-networks-depin)</button>
+
 </div>
 
 {% end %}
@@ -64,9 +66,8 @@ weight: 1
 </p>
 <br>
 
-<button onclick="yourlink">
-  Learn More
-</button>
+<button>[Learn More](https://manual.grid.tf/intro/grid3_howitworks.html)</button>
+
 
 |||
 
@@ -92,9 +93,7 @@ weight: 1
 
 <br>
 
-<button onclick="yourlink">
-  Learn More
-</button>
+<button>[Learn More](https://manual.grid.tf/technology/zos/benefits/zos_advantages_toc.html)</button>
 
 {% end %}
 
@@ -110,9 +109,7 @@ weight: 1
 
 <br>
 
-<button onclick="yourlink">
-  Learn More
-</button>
+<button>[Learn More](https://manual.grid.tf/technology/qsss/qsss_home.html)</button>
 
 |||
 
@@ -138,9 +135,7 @@ weight: 1
 
 <br>
 
-<button onclick="yourlink">
-  Learn More
-</button>
+<button>[Learn More](https://threefoldfoundation.github.io/info_cloud_production/tfcloud/mycelium/mycelium.html)</button>
 
 {% end %}
 

@@ -43,7 +43,7 @@ weight: 1
 
   <br>
 
-  <button onclick="/about">About Us</button>
+  <button>[About Us](/about)</button>
 </div>
 
 {% end %}
@@ -114,9 +114,7 @@ weight: 1
 
 {% row(style="center" reverse="rightreserve" padding="bottom" style="center" margin="none") %}
 
-<button onclick="yourlink">
-  Learn More
-</button>
+ <button>[Learn More](/technologies)</button>
 
 {% end %}
 
@@ -132,9 +130,8 @@ weight: 1
 
 <p>Explore how RethinkIT's innovative solutions address global infrastructure challenges, enabling self-sufficient internet systems and decentralized IT infrastructure.</p>
 
-<button onclick="yourlink">
-  Our Use-Cases
-</button>
+ <button>[Use-Cases](/solutions)</button>
+
 
 {% end %}
 
@@ -146,9 +143,7 @@ weight: 1
 
 <p>Stay informed about the latest advancements, groundbreaking projects, and insightful articles. Dive into a wealth of information that highlights our commitment to innovation, technology, and the future of decentralized infrastructure networks.</p>
 
-<button onclick="yourlink">
-  Read More
-</button>
+ <button>[Read More](/blog)</button>
 
 |||
 
@@ -167,6 +162,9 @@ weight: 1
   ## Let's Connect!
 
   <p>Our team is dedicated to fostering collaboration, innovation, and community engagement. Feel free to use the provided contact information or submit the online form. We look forward to hearing from you and exploring opportunities to create a decentralized and interconnected future together.</p>
+
+   <button>[Contact Us](/contact)</button>
+
 </div>
 
 {% end %}

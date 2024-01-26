@@ -49,7 +49,8 @@ weight: 2
 
   <br>
 
-  <button onclick="/about">Learn More</button>
+   <button>[Learn More](/technologies)</button>
+
 </div>
 
 {% end %}
@@ -141,27 +142,6 @@ weight: 2
 
 <!-- section 4 solutions -->
 
-{% row(style="left" margin="withContainer" padding="bottom") %}
-
-![placeholder](./img/img_section.png#mx-auto)
-
-|||
-
-## RethinkIT's DePIN Vision
-
-
-<p>At RethinkIT, we recognize the immense economic losses nations face without their own internet infrastructure. Our dedication to the DePIN movement is rooted in reversing this trend, providing essential Storage, Network, Compute, and AI capabilities to transform nations into digital powerhouses. Our vision aligns with the evolving landscape of DePIN and AI technologies, ensuring a future of digital empowerment. We stand at the forefront of DePIN, committed to crafting a sustainable and eco-friendly digital future.</p>
-
-<br>
-
-<button onclick="yourlink">
-  Our Technology
-</button>
-
-{% end %}
-
-<!-- section 5 news -->
-
 {% row(style="right" margin="withContainer" padding="bottom") %}
 
 ## About OurWorld
@@ -173,9 +153,7 @@ weight: 2
 <p>OurWorld, is a distinguished Venture Creator with a track record of innovation and success. With seven exits in the last two decades within the high-tech storage and cloud space, OurWorld has been a catalyst for groundbreaking projects through its subsidiary, Incubaid.
 </p>
 
-<button onclick="https://ourworld.tf/ ">
-  Learn More
-</button>
+<button>[Donate](https://ourworld.tf/)</button>
 
 |||
 

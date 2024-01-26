@@ -35,9 +35,7 @@ weight: 1
 
 Our technology powers ThreeFold, a decentralized DePIN project that has achieved remarkable scalability. Our third-generation software, deployed within the project, has demonstrated its ability to facilitate network expansion and widespread utilization. Today, this network stands as the largest of its kind globally. It not only exemplifies the power of our technology but also signifies a groundbreaking shift towards a more decentralized, efficient, and accessible internet ecosystem that empowers users worldwide.
 
-<button onclick="https://www.threefold.io/ ">
-  Discover ThreeFold
-</button>
+<button>[Learn More](https://www.threefold.io/)</button>
 
 {% end %}
 
@@ -49,9 +47,7 @@ Our technology powers ThreeFold, a decentralized DePIN project that has achieved
 
 RethinkIT's technology plays a pivotal role in Tanzania's ambitious mission to establish its sovereign internet infrastructure. This is a game-changer for Tanzania, as the nation faces annual economic losses surpassing $10 billion due to its reliance on external internet infrastructure. By harnessing RethinkIT's advanced solutions, Tanzania is taking control of its digital destiny, increasing economic growth, and bolstering its sovereignty and national security to create a more resilient digital ecosystem.
 
-<button onclick="https://www.thecitizen.co.tz/tanzania/news/national/sovereign-internet-a-game-changer-to-tanzania-startups-ecosystem-growth-4498060">
-  Learn more
-</button>
+<button>[Learn More](https://www.thecitizen.co.tz/tanzania/news/national/sovereign-internet-a-game-changer-to-tanzania-startups-ecosystem-growth-4498060)</button>
 
 |||
 
@@ -71,10 +67,8 @@ RethinkIT's technology plays a pivotal role in Tanzania's ambitious mission to e
 
 Zanzibar is using our technology infrastructure for the development of a cutting-edge digital freezone. Leveraging our solutions, Zanzibar aims to create a thriving ecosystem that fosters innovation, digital entrepreneurship, and economic growth. This initiative represents a bold step towards harnessing the power of technology to drive economic transformation and position Zanzibar as a hub for digital innovation and commerce.
 
-<button onclick="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-seeks-to-become-digital-freezone--4316150 
-https://www2.threefold.io/newsroom/digitalfreezonezanzibar/ ">
-  Learn more
-</button>
+<button>[Learn More](https://freezone.ourworld.tf/)</button>
+
 
 {% end %}
 
