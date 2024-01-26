@@ -54,7 +54,8 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-## 3Nodes: The Building Blocks
+## 3Nodes
+#### The Building Blocks
 
 <p>3Nodes, advanced hardware units, form the backbone of our decentralized computing infrastructure. Each 3Node is equipped with self-healing capabilities, ensuring continuous operation without human intervention. Their decentralized nature ensures a more secure and resilient network, reducing the risk of system-wide failures or cyber attacks. This architecture also enables better data privacy. 3Nodes support a wide range of applications, from cloud services to blockchain technologies, making them versatile for various industry needs
 </p>
@@ -79,7 +80,8 @@ weight: 1
 
 |||
 
-## Zero-OS: Powering the Future
+## Zero-OS
+#### Powering the Future
 
 
 <p>RethinkIT's innovative operating system, engineered to redefine computing efficiency and security. It's a state-of-the-art platform designed for decentralized environments, seamlessly integrating with RethinkIT's infrastructure. The system is lightweight yet robust, ensuring high performance with minimal resource consumption. With its forward-thinking architecture, Zero-OS is not just an operating system; it's a gateway to the future of decentralized computing, offering scalability, security, and efficiency in a revolutionary package.
@@ -95,7 +97,8 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-## Quantum Safe Storage: Securing Data
+## Quantum Safe Storage
+#### Securing Data
 
 <p>Quantum Safe Storage, a key feature of RethinkIT's technology, represents a groundbreaking approach to data security which is ultra-secure and highly efficient. It revolutionizes how data is stored, replacing traditional cloud and container images with a deduplicated, content-addressed system. Its advanced design ensures complete immunity to quantum computer-based attacks. This approach achieves over ten times the bandwidth and storage efficiency of other technologies and offers a tenfold reduction in overhead. 
 </p>
@@ -119,7 +122,8 @@ weight: 1
 
 |||
 
-## Mycelium: Connecting the Dots
+## Mycelium
+#### Connecting the Dots
 
 
 <p>Mycelium is a novel overlay network, distinguished by its capability to factor in locality for routing, optimizing communication based on peer proximity. This technology emphasizes seamless connectivity and rapid data transfer, ensuring robust and reliable communication across the network. Mycelium has end-to-end encryption, with each logical network interface linked to a private key, ensuring that each IPv6 address remains constant. This not only fortifies network security but also facilitates an always-on, reliable network.
