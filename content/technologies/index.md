@@ -41,7 +41,7 @@ weight: 1
 
   ## What is DePIN?
 
-  DePIN embodies a revolutionary concept that redefines the development, upkeep, and operation of physical infrastructure within a decentralized framework, leveraging peer-to-peer (P2P) technology. DePINs introduce a novel paradigm by utilizing tokens to incentivize the construction and maintenance of tangible infrastructure networks, encompassing wireless networks, sensor networks, cloud services, mobility networks, energy grids, and more. Unlike conventional models led by centralized entities or corporations, these networks are collectively built and governed by a community of participants, thus democratizing ownership and profits associated with physical infrastructure. This transformative approach aims to establish a more widely distributed and inclusive economic model. 
+  DePIN embodies a revolutionary concept that redefines the development, upkeep, and operation of physical infrastructure within a decentralized framework, leveraging peer-to-peer (P2P) technology. Unlike conventional models led by centralized entities or corporations, these networks are collectively built and governed by a community of participants, thus democratizing ownership and profits associated with physical infrastructure. This transformative approach aims to establish a more widely distributed and inclusive economic model. 
 
   <br>
 
@@ -50,7 +50,25 @@ weight: 1
 
 {% end %}
 
+<!-- section 3 nodes -->
 
+{% row(style="left" margin="withContainer" padding="bottom") %}
+
+## 3Nodes: The Building Blocks
+
+<p>3Nodes, advanced hardware units, form the backbone of our decentralized computing infrastructure. Each 3Node is equipped with self-healing capabilities, ensuring continuous operation without human intervention. Their decentralized nature ensures a more secure and resilient network, reducing the risk of system-wide failures or cyber attacks. This architecture also enables better data privacy. 3Nodes support a wide range of applications, from cloud services to blockchain technologies, making them versatile for various industry needs
+</p>
+<br>
+
+<button onclick="yourlink">
+  Learn More
+</button>
+
+|||
+
+![placeholder](./img/img_section.png#mx-auto)
+
+{% end %}
 
 
 <!-- section 4 solutions -->
@@ -61,9 +79,11 @@ weight: 1
 
 |||
 
-## Transformative Solutions 
+## Zero-OS: Powering the Future
 
-<p>Explore how RethinkIT's innovative solutions address global infrastructure challenges, enabling self-sufficient internet systems and decentralized IT infrastructure.</p>
+
+<p>RethinkIT's innovative operating system, engineered to redefine computing efficiency and security. It's a state-of-the-art platform designed for decentralized environments, seamlessly integrating with RethinkIT's infrastructure. The system is lightweight yet robust, ensuring high performance with minimal resource consumption. With its forward-thinking architecture, Zero-OS is not just an operating system; it's a gateway to the future of decentralized computing, offering scalability, security, and efficiency in a revolutionary package.
+</p>
 
 <button onclick="yourlink">
   button
@@ -73,11 +93,12 @@ weight: 1
 
 <!-- section 5 news -->
 
-{% row(style="right" margin="withContainer" padding="bottom") %}
+{% row(style="left" margin="withContainer" padding="bottom") %}
 
-## RethinkIT News
+## Quantum Safe Storage: Securing Data
 
-<p>Stay informed about the latest advancements, groundbreaking projects, and insightful articles. Dive into a wealth of information that highlights our commitment to innovation, technology, and the future of decentralized infrastructure networks.</p>
+<p>Quantum Safe Storage, a key feature of RethinkIT's technology, represents a groundbreaking approach to data security which is ultra-secure and highly efficient. It revolutionizes how data is stored, replacing traditional cloud and container images with a deduplicated, content-addressed system. Its advanced design ensures complete immunity to quantum computer-based attacks. This approach achieves over ten times the bandwidth and storage efficiency of other technologies and offers a tenfold reduction in overhead. 
+</p>
 
 <button onclick="yourlink">
   button
@@ -86,6 +107,27 @@ weight: 1
 |||
 
 ![placeholder](./img/img_section.png#mx-auto)
+
+{% end %}
+
+
+<!-- section 4 solutions -->
+
+{% row(style="left" margin="withContainer" padding="bottom") %}
+
+![placeholder](./img/img_section.png#mx-auto)
+
+|||
+
+## Mycelium: Connecting the Dots
+
+
+<p>Mycelium is a novel overlay network, distinguished by its capability to factor in locality for routing, optimizing communication based on peer proximity. This technology emphasizes seamless connectivity and rapid data transfer, ensuring robust and reliable communication across the network. Mycelium has end-to-end encryption, with each logical network interface linked to a private key, ensuring that each IPv6 address remains constant. This not only fortifies network security but also facilitates an always-on, reliable network.
+</p>
+
+<button onclick="yourlink">
+  button
+</button>
 
 {% end %}
 
@@ -97,29 +139,9 @@ weight: 1
 
 ![placeholder](./img/img_section.png#mx-auto)
 
-  ## Let's Connect!
+  ## Why RethinkIT
 
-  <p>Our team is dedicated to fostering collaboration, innovation, and community engagement. Feel free to use the provided contact information or submit the online form. We look forward to hearing from you and exploring opportunities to create a decentralized and interconnected future together.</p>
+  <p>In a world of rapid technological change, traditional approaches no longer suffice. RethinkIT leads this transformation with innovative technologies like 3Nodes, Zero-OS, Quantum Safe Storage, and Mycelium. These solutions prioritize security, efficiency, and sustainability, offering a fresh perspective on how IT infrastructure can be more adaptive, resilient, and future-ready. By choosing to RethinkIT, businesses and individuals align with a vision that is not just about meeting today's needs but proactively shaping a more advanced and sustainable digital future.</p>
 </div>
-
-{% end %}
-
-<!-- section 6 in the news -->
-
-{% row(style="center" padding="bottom") %}
-
-[![logo1](img/logo_bottom.png#small)](yourlink)
-
-|||
-
-[![logo2](img/logo_bottom.png#small)](yourlink)
-
-|||
-
-[![logo3](img/logo_bottom.png#small)](yourlink)
-
-|||
-
-[![logo4](img/logo_bottom.png#small)](yourlink)
 
 {% end %}
