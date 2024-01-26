@@ -17,7 +17,7 @@ weight: 1
 
   #### Real-World Applications
 
-  <p> RethinkIT has created a Technology layer to make DePIN feasible and effective on a global scale. Our solution encompasses an ultra-scalable, peer-to-peer technology stack with zero centralization, aligning with both governmental and large enterprise needs. This flexibility extends to compatibility with crypto environments and heavily regulated, certified organizations. Our stack's versatility allows deployment across various use cases, demonstrating our commitment to providing flexible and adaptable IT solutions for a wide range of industries and applications. </p>
+  <p> Our DePIN solution encompasses an ultra-scalable, peer-to-peer technology stack with zero centralization, aligning with both governmental and large enterprise needs. This flexibility extends to compatibility with crypto environments and heavily regulated, certified organizations. Our stack's versatility allows deployment across various use cases, demonstrating our commitment to providing flexible and adaptable IT solutions for a wide range of industries and applications. </p>
 
 </div>
 

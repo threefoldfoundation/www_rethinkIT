@@ -9,8 +9,8 @@ extra:
 ---
 - [Home]("/")
 - [About]("/about")
-- [Technologies]("/technologies")
-- [Solutions]("/solutions")
+- [Technology]("/technologies")
+- [Use-Cases]("/solutions")
 - [News]("/blog")
 - [Contact]("/contact")
 - [People]("/people")
