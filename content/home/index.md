@@ -1,5 +1,5 @@
 ---
-title: "Ourworld Free Zone"
+title: "RethinkIT"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -9,7 +9,7 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(style="center" margin="withContainer" reverse="rightreserve" padding="both") %}
+{% row(style="center" reverse="rightreserve" padding="both" style="center" margin="withcontainer") %}
 
 <div class="px-4 md:px-16 lg:px-28">
 
