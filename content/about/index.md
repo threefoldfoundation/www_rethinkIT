@@ -76,7 +76,9 @@ weight: 2
   ![Image](./img/logo1.png#md#mx-auto)
 
  ### 2005
-  Data reduction and capacity optimization software for disk-based backup. 
+  **Data reduction and capacity optimization software for disk-based backup** 
+  <br>
+  Acquired by Veritas and later sold to Symantec (market cap USD 17 billion) and then to the Carlyle group (market cap USD 8 billion)
 
 </div>
 
@@ -87,7 +89,9 @@ weight: 2
   ![Image](./img/logo2.png#md#mx-auto)
 
   ### 2005
-  Managed dedicated hosting services for complex Internet infrastrutures. 
+  **Managed dedicated hosting services for complex Internet infrastrutures**
+  <br>
+  Acquired by Verizon and Terremark. Later sold to Equiniz (market cap USD 34 million)
 </div>
 
 {% end %}
@@ -101,7 +105,9 @@ weight: 2
   ![Image](./img/logo3.png#md#mx-auto)
 
   ### 2008
-  Belgium's largest hosting company. 
+  **Belgium's largest hosting company**
+  <br>
+  Acquired by Telenet (market cap USD 8 billion)
 </div>
 
 |||
@@ -111,7 +117,9 @@ weight: 2
   ![Image](./img/logo4.png#md#mx-auto)
 
   ### 2009
-  Automation of cloud computing deployment, full data center virtualization. 
+  **Automation of cloud computing deployment, full data center virtualization**
+  <br>
+   Acquired by Sun Microsystems. Later sold to Oracle (market cap USD 205 billion)
 </div>
 
 |||
@@ -121,7 +129,9 @@ weight: 2
   ![Image](./img/logo5.png#md#mx-auto)
 
   ### 2015
-  Object storage software for public and private cloud data centers. 
+  **Object storage software for public and private cloud data centers**
+  <br>
+  Acquired by HGST, subsidiary of Western Digital (market cap USD 25 billion)
  
 </div>
 
