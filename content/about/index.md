@@ -73,7 +73,7 @@ weight: 2
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/logo1.png#md#mx-auto)
 
  ### 2005
   Data reduction and capacity optimization software for disk-based backup. 
@@ -84,7 +84,7 @@ weight: 2
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/logo2.png#md#mx-auto)
 
   ### 2005
   Managed dedicated hosting services for complex Internet infrastrutures. 
@@ -98,7 +98,7 @@ weight: 2
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/logo3.png#md#mx-auto)
 
   ### 2008
   Belgium's largest hosting company. 
@@ -108,7 +108,7 @@ weight: 2
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/logo4.png#md#mx-auto)
 
   ### 2009
   Automation of cloud computing deployment, full data center virtualization. 
@@ -118,7 +118,7 @@ weight: 2
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/logo5.png#md#mx-auto)
 
   ### 2015
   Object storage software for public and private cloud data centers. 
