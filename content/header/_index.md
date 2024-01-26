@@ -11,6 +11,6 @@ extra:
 - [About]("/about")
 - [Technology]("/technologies")
 - [Use-Cases]("/solutions")
-- [News]("/blog")
+- [Blog]("/blog")
 - [Contact]("/contact")
 - [People]("/people")

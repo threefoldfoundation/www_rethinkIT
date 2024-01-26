@@ -19,10 +19,6 @@ weight: 1
 
   <p>Explore the limitless potential of DePIN (Decentralized Physical Infrastructure Networks). Join us in creating a future where communities govern and contribute to the development of real-world infrastructure networks, democratizing ownership and fostering a participatory economic model.</p>
 
-  <button onclick="yourlink">
-  button
-  </button>
-
 </div>
 
 {% end %}
@@ -47,7 +43,7 @@ weight: 1
 
   <br>
 
-  <button onclick="/about">Learn More</button>
+  <button onclick="/about">About Us</button>
 </div>
 
 {% end %}
@@ -116,6 +112,14 @@ weight: 1
 
 {% end %}
 
+{% row(style="center" reverse="rightreserve" padding="bottom" style="center" margin="none") %}
+
+<button onclick="yourlink">
+  Learn More
+</button>
+
+{% end %}
+
 <!-- section 4 solutions -->
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
@@ -124,12 +128,12 @@ weight: 1
 
 |||
 
-## Transformative Solutions 
+## Transformative Solutions
 
 <p>Explore how RethinkIT's innovative solutions address global infrastructure challenges, enabling self-sufficient internet systems and decentralized IT infrastructure.</p>
 
 <button onclick="yourlink">
-  button
+  Our Use-Cases
 </button>
 
 {% end %}
@@ -138,12 +142,12 @@ weight: 1
 
 {% row(style="right" margin="withContainer" padding="bottom") %}
 
-## RethinkIT News
+## RethinkIT Blog
 
 <p>Stay informed about the latest advancements, groundbreaking projects, and insightful articles. Dive into a wealth of information that highlights our commitment to innovation, technology, and the future of decentralized infrastructure networks.</p>
 
 <button onclick="yourlink">
-  button
+  Read More
 </button>
 
 |||

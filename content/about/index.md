@@ -14,7 +14,7 @@ weight: 2
 <div class="px-4 md:px-16 lg:px-28">
 
 
-  # About RethinkIT
+  # About Us
 
   ![Image](./img/datacenter.png#md#mx-auto)
 

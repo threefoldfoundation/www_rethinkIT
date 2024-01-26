@@ -13,7 +13,7 @@ weight: 1
 
 <div class="px-4 md:px-16 lg:px-28">
 
-  # RethinkIT's Technology
+  # Our Technology
 
   <p>In a world of rapid technological change, traditional approaches no longer suffice. RethinkIT has created a technology layer to make DePIN feasible and effective on a global scale. Our solutions prioritize security, efficiency, and sustainability. By choosing to RethinkIT, businesses and individuals align with a vision that is not just about meeting today's needs but proactively shaping a more advanced and sustainable digital future. </p>
 
@@ -90,8 +90,10 @@ weight: 1
 <p>RethinkIT's innovative operating system, engineered to redefine computing efficiency and security. It's a state-of-the-art platform designed for decentralized environments, seamlessly integrating with RethinkIT's infrastructure. The system is lightweight yet robust, ensuring high performance with minimal resource consumption. With its forward-thinking architecture, Zero-OS is not just an operating system; it's a gateway to the future of decentralized computing, offering scalability, security, and efficiency in a revolutionary package.
 </p>
 
+<br>
+
 <button onclick="yourlink">
-  button
+  Learn More
 </button>
 
 {% end %}
@@ -106,8 +108,10 @@ weight: 1
 <p>Quantum Safe Storage, a key feature of RethinkIT's technology, represents a groundbreaking approach to data security which is ultra-secure and highly efficient. It revolutionizes how data is stored, replacing traditional cloud and container images with a deduplicated, content-addressed system. Its advanced design ensures complete immunity to quantum computer-based attacks. This approach achieves over ten times the bandwidth and storage efficiency of other technologies and offers a tenfold reduction in overhead. 
 </p>
 
+<br>
+
 <button onclick="yourlink">
-  button
+  Learn More
 </button>
 
 |||
@@ -132,8 +136,10 @@ weight: 1
 <p>Mycelium is a novel overlay network, distinguished by its capability to factor in locality for routing, optimizing communication based on peer proximity. This technology emphasizes seamless connectivity and rapid data transfer, ensuring robust and reliable communication across the network. Mycelium has end-to-end encryption, with each logical network interface linked to a private key, ensuring that each IPv6 address remains constant. This not only fortifies network security but also facilitates an always-on, reliable network.
 </p>
 
+<br>
+
 <button onclick="yourlink">
-  button
+  Learn More
 </button>
 
 {% end %}
