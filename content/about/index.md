@@ -13,13 +13,10 @@ weight: 2
 
 <div class="px-4 md:px-16 lg:px-28">
 
-  # RethinkIT
+  # About RethinkIT
 
-  <p>Explore the limitless potential of DePIN (Decentralized Physical Infrastructure Networks). Join us in creating a future where communities govern and contribute to the development of real-world infrastructure networks, democratizing ownership and fostering a participatory economic model.</p>
+  <p>RethinkIT is an innovative software technology company that has built a decentralized, autonomous, computing platform. Our unique technology provides unparalleled sovereignty, scalability and efficiency features that emerging IT workloads require, and that traditional cloud infrastructures cannot deliver.</p>
 
-  <button onclick="yourlink">
-  button
-  </button>
 
 </div>
 
@@ -39,9 +36,14 @@ weight: 2
 
 <div class="container mx-auto"> 
 
-  ## Pioneering Decentralized Computing
+  ## Revolutionizing Tech Infrastructure
 
-  RethinkIT revolutionizes tech infrastructure, offering unmatched sovereignty and scalability. With 40+ years of global innovation, we lead the DePIN movement, harmonizing tradition with decentralized progress.
+ At RethinkIT, we're at the forefront of reshaping how technological infrastructure is developed, maintained, and operated. DePIN leverages blockchain and P2P technology, incentivizing community-driven construction and maintenance of real-world internet infrastructure networks. Our mission is to democratize ownership and profits, fostering a distributed and participatory economic model.
+
+ <br>
+ 
+ We firmly believe that the DePIN movement possesses the potential to penetrate mainstream adoption and disrupt a market estimated at trillions of USD. Our vision entails a harmonious integration of proven conventional methodologies with the decentralized ethos of DePIN, representing an optimal path forward for the global landscape.
+
 
   <br>
 
@@ -58,9 +60,9 @@ weight: 2
 
 <div class="container mx-auto"> 
 
-  ## Our DePIN Technologies
+  ## Our History
 
-  <p>Explore RethinkIT's pioneering technology, enabling the global adoption of Decentralized Physical Infrastructure Networks (DePIN).</p>
+  <p>RethinkIT has been at the forefront of solving global internet challenges, boasting a visionary team with 30+ years of experience. Our history is marked by seven successful exits, multiple world records, and a trail of groundbreaking inventions, from scalable content routing to Zeta-Byte storage systems. With a global impact that spans scaling websites during the internet's infancy to delivering cutting-edge data center solutions, we've consistently tackled complex challenges, leaving an indelible mark on the tech landscape for over four decades.</p>
 </div>
 
 {% end %}
@@ -71,10 +73,12 @@ weight: 2
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/logo1.png#md#mx-auto)
 
- ### 3Nodes
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+ ### 2005
+  **Data reduction and capacity optimization software for disk-based backup** 
+  <br>
+  Acquired by Veritas and later sold to Symantec (market cap USD 17 billion) and then to the Carlyle group (market cap USD 8 billion)
 
 </div>
 
@@ -82,10 +86,12 @@ weight: 2
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/logo2.png#md#mx-auto)
 
-  #### Zero-OS
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  ### 2005
+  **Managed dedicated hosting services for complex Internet infrastrutures**
+  <br>
+  Acquired by Verizon and Terremark. Later sold to Equiniz (market cap USD 34 million)
 </div>
 
 {% end %}
@@ -96,20 +102,37 @@ weight: 2
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/logo3.png#md#mx-auto)
 
-  #### QSFS
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  ### 2008
+  **Belgium's largest hosting company**
+  <br>
+  Acquired by Telenet (market cap USD 8 billion)
 </div>
 
 |||
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/logo4.png#md#mx-auto)
 
-  #### Mycelium
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  ### 2009
+  **Automation of cloud computing deployment, full data center virtualization**
+  <br>
+   Acquired by Sun Microsystems. Later sold to Oracle (market cap USD 205 billion)
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+  ![Image](./img/logo5.png#md#mx-auto)
+
+  ### 2015
+  **Object storage software for public and private cloud data centers**
+  <br>
+  Acquired by HGST, subsidiary of Western Digital (market cap USD 25 billion)
+ 
 </div>
 
 {% end %}
@@ -122,12 +145,15 @@ weight: 2
 
 |||
 
-## Transformative Solutions 
+## RethinkIT's DePIN Vision
 
-<p>Explore how RethinkIT's innovative solutions address global infrastructure challenges, enabling self-sufficient internet systems and decentralized IT infrastructure.</p>
+
+<p>At RethinkIT, we recognize the immense economic losses nations face without their own internet infrastructure. Our dedication to the DePIN movement is rooted in reversing this trend, providing essential Storage, Network, Compute, and AI capabilities to transform nations into digital powerhouses. Our vision aligns with the evolving landscape of DePIN and AI technologies, ensuring a future of digital empowerment. We stand at the forefront of DePIN, committed to crafting a sustainable and eco-friendly digital future.</p>
+
+<br>
 
 <button onclick="yourlink">
-  button
+  Our Technology
 </button>
 
 {% end %}
@@ -136,12 +162,17 @@ weight: 2
 
 {% row(style="right" margin="withContainer" padding="bottom") %}
 
-## RethinkIT News
+## About OurWorld
 
-<p>Stay informed about the latest advancements, groundbreaking projects, and insightful articles. Dive into a wealth of information that highlights our commitment to innovation, technology, and the future of decentralized infrastructure networks.</p>
+<p>In the realm of transformative projects, RethinkIT stands out. Based in Belgium (Europe) and fully owned by OurWorld Holding, RethinkIT is poised to revolutionize the IT industry with its pioneering approach.
+</p>
 
-<button onclick="yourlink">
-  button
+<br>
+<p>OurWorld, is a distinguished Venture Creator with a track record of innovation and success. With seven exits in the last two decades within the high-tech storage and cloud space, OurWorld has been a catalyst for groundbreaking projects through its subsidiary, Incubaid.
+</p>
+
+<button onclick="https://ourworld.tf/ ">
+  Learn More
 </button>
 
 |||
@@ -150,37 +181,3 @@ weight: 2
 
 {% end %}
 
-<!-- section 6 contact -->
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-<div class="container mx-auto">
-
-![placeholder](./img/img_section.png#mx-auto)
-
-  ## Let's Connect!
-
-  <p>Our team is dedicated to fostering collaboration, innovation, and community engagement. Feel free to use the provided contact information or submit the online form. We look forward to hearing from you and exploring opportunities to create a decentralized and interconnected future together.</p>
-</div>
-
-{% end %}
-
-<!-- section 6 in the news -->
-
-{% row(style="center" padding="bottom") %}
-
-[![logo1](img/logo_bottom.png#small)](yourlink)
-
-|||
-
-[![logo2](img/logo_bottom.png#small)](yourlink)
-
-|||
-
-[![logo3](img/logo_bottom.png#small)](yourlink)
-
-|||
-
-[![logo4](img/logo_bottom.png#small)](yourlink)
-
-{% end %}
