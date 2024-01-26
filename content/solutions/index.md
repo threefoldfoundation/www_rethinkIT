@@ -13,9 +13,11 @@ weight: 1
 
 <div class="px-4 md:px-16 lg:px-28">
 
-  # RethinkIT's Use Cases.
+  # RethinkIT in Action 
 
-  <p> Discover the ways in which our innovative technologies are being used to solve the challenges faced by existing infrastructure. </p>
+  #### Real-World Applications
+
+  <p> RethinkIT has created a Technology layer to make DePIN feasible and effective on a global scale. Our solution encompasses an ultra-scalable, peer-to-peer technology stack with zero centralization, aligning with both governmental and large enterprise needs. This flexibility extends to compatibility with crypto environments and heavily regulated, certified organizations. Our stack's versatility allows deployment across various use cases, demonstrating our commitment to providing flexible and adaptable IT solutions for a wide range of industries and applications. </p>
 
 </div>
 
@@ -29,39 +31,7 @@ weight: 1
 
 |||
 
-## Challenges in Current Infrastructure
-
-Global economic impacts due to suboptimal internet infrastructure are profound. Countries face substantial losses due to the lack of a self-sufficient internet system. DePIN can reverse this trend by providing sufficient Storage, Network, Compute and AI capacity locally in every country. Existing protocol-based DePIN solutions lack scalability and integration, often failing to address the needs of a globally connected digital future. The necessity for a unified, autonomous IT infrastructure, capable of seamlessly integrating AI, compute, storage, and network capacity on a large scale, is more apparent than ever. This situation demands a rethinking of how we deliver and manage digital infrastructure to avoid fragmentation and inefficiency.
-
-
-{% end %}
-
-<!-- section 2 security -->
-
-{% row(style="right" margin="withContainer" padding="bottom") %}
-
-## Innovative Solutions by RethinkIT
-
-RethinkIT has created a Technology layer to make DePIN feasible and effective on a global scale. Our solution encompasses an ultra-scalable, peer-to-peer technology stack with zero centralization, aligning with both governmental and large enterprise needs. This flexibility extends to compatibility with crypto environments and heavily regulated, certified organizations. Our stack's versatility allows deployment across various use cases, demonstrating our commitment to providing flexible and adaptable IT solutions for a wide range of industries and applications.
-
-|||
-
-![placeholder](./img/img_section.png#mx-auto)
-
-
-
-{% end %}
-
-<!-- section 3 features title -->
-
-{% row(style="left" margin="withContainer" padding="bottom") %}
-
-![placeholder](./img/img_section.png#mx-auto)
-
-|||
-
-## DePIN in Action: Real-World Applications
-#### ThreeFold DePIN Network
+## The ThreeFold Grid
 
 Our technology powers ThreeFold, a decentralized DePIN project that has achieved remarkable scalability. Our third-generation software, deployed within the project, has demonstrated its ability to facilitate network expansion and widespread utilization. Today, this network stands as the largest of its kind globally. It not only exemplifies the power of our technology but also signifies a groundbreaking shift towards a more decentralized, efficient, and accessible internet ecosystem that empowers users worldwide.
 
@@ -87,8 +57,6 @@ RethinkIT's technology plays a pivotal role in Tanzania's ambitious mission to e
 
 ![placeholder](./img/img_section.png#mx-auto)
 
-
-
 {% end %}
 
 <!-- section 3 features title -->
@@ -107,4 +75,6 @@ Zanzibar is using our technology infrastructure for the development of a cutting
 https://www2.threefold.io/newsroom/digitalfreezonezanzibar/ ">
   Learn more
 </button>
+
+{% end %}
 

@@ -15,7 +15,7 @@ weight: 1
 
   # RethinkIT's Technology
 
-  <p>In a world of rapid technological change, traditional approaches no longer suffice. RethinkIT has created a technology layer to make DePIN feasible and effective on a global scale. Our solutions prioritize security, efficiency, and sustainability, offering a fresh perspective on how IT infrastructure can be more adaptive, resilient, and future-ready. By choosing to RethinkIT, businesses and individuals align with a vision that is not just about meeting today's needs but proactively shaping a more advanced and sustainable digital future. </p>
+  <p>In a world of rapid technological change, traditional approaches no longer suffice. RethinkIT has created a technology layer to make DePIN feasible and effective on a global scale. Our solutions prioritize security, efficiency, and sustainability. By choosing to RethinkIT, businesses and individuals align with a vision that is not just about meeting today's needs but proactively shaping a more advanced and sustainable digital future. </p>
 
 </div>
 
@@ -35,9 +35,15 @@ weight: 1
 
 <div class="container mx-auto"> 
 
-  ## What is DePIN?
+  ## DePIN
 
-  DePIN embodies a revolutionary concept that redefines the development, upkeep, and operation of physical infrastructure within a decentralized framework, leveraging peer-to-peer (P2P) technology. Unlike conventional models led by centralized entities or corporations, these networks are collectively built and governed by a community of participants, thus democratizing ownership and profits associated with physical infrastructure. This transformative approach aims to establish a more widely distributed and inclusive economic model. 
+   Countries face substantial losses due to the lack of a self-sufficient internet system. DePIN can reverse this trend by providing Storage, Network, Compute and AI capacity locally in every country. DePIN redefines the development, upkeep, and operation of physical infrastructure within a decentralized framework, leveraging peer-to-peer (P2P) technology. Unlike conventional models led by centralized entities or corporations, these networks are collectively built and governed by a community of participants, thus democratizing ownership and profits associated with physical infrastructure. 
+
+  <br>
+  
+  Existing protocol-based DePIN solutions lack scalability and integration, often failing to address the needs of a globally connected digital future. The necessity for a unified, autonomous IT infrastructure, capable of seamlessly integrating AI, compute, storage, and network capacity on a large scale, is more apparent than ever. This situation demands a rethinking of how we deliver and manage digital infrastructure to avoid fragmentation and inefficiency.
+
+
 
   <br>
 
@@ -45,6 +51,7 @@ weight: 1
 </div>
 
 {% end %}
+
 
 <!-- section 3 nodes -->
 
