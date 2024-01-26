@@ -9,79 +9,51 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(style="left" margin="none" reverse="rightreserve" padding="bottom") %}
+{% row(style="center" reverse="rightreserve" padding="both" style="center" margin="withcontainer") %}
 
 <div class="px-4 md:px-16 lg:px-28">
 
-<br>
-<br>
+  # RethinkIT's Technology
 
-# h1 title
-## h2 subtitle
+  <p>Discover RethinkIT’s pioneering technology, driving innovation with cutting-edge solutions. Our company has created a technology layer to make DePIN, "Decentralized Physical Infrastructure Networks”,  feasible and effective on a global scale. </p>
 
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<button onclick="yourlink">
+  <button onclick="yourlink">
   button
-</button>
+  </button>
 
 </div>
 
-<br>
-
-|||
-
-![placeholder](./img/img_header.png#mx-auto)
-
 {% end %}
 
-<!-- section 2 (header) -->
+<!-- section 2 about -->
+
+{% row(style="left" margin="withContainer" padding="bottom") %}
 
 <div class="container mx-auto"> 
 
-{% row(style="center" margin="withContainer" padding="none") %}
-
-## h2 h2 h2
-
-### h3 h3 h3
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column_item.png#md#mx-auto)
-
-#### item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  ![](./img/img_portrait.png#mx-auto)
 
 </div>
 
 |||
 
-<div class="mx-4 my-4">
+<div class="container mx-auto"> 
 
-![Image](./img/img_column_item.png#md#mx-auto)
+  ## What is DePIN?
 
-#### item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-</div>
+  DePIN embodies a revolutionary concept that redefines the development, upkeep, and operation of physical infrastructure within a decentralized framework, leveraging peer-to-peer (P2P) technology. DePINs introduce a novel paradigm by utilizing tokens to incentivize the construction and maintenance of tangible infrastructure networks, encompassing wireless networks, sensor networks, cloud services, mobility networks, energy grids, and more. Unlike conventional models led by centralized entities or corporations, these networks are collectively built and governed by a community of participants, thus democratizing ownership and profits associated with physical infrastructure. This transformative approach aims to establish a more widely distributed and inclusive economic model. 
 
-|||
+  <br>
 
-<div class="mx-4 my-4">
-
-![Image](./img/img_column_item.png#md#mx-auto)
-
-#### item 3
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-
+  <button onclick="/about">Learn More</button>
 </div>
 
 {% end %}
 
-<!-- section 2 security -->
+
+
+
+<!-- section 4 solutions -->
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
@@ -89,12 +61,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 |||
 
-## h2h2h2
+## Transformative Solutions 
 
-### h3 subtitle
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam <br>
- <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br><br>
+<p>Explore how RethinkIT's innovative solutions address global infrastructure challenges, enabling self-sufficient internet systems and decentralized IT infrastructure.</p>
 
 <button onclick="yourlink">
   button
@@ -102,16 +71,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% end %}
 
-<!-- section 2 security -->
+<!-- section 5 news -->
 
 {% row(style="right" margin="withContainer" padding="bottom") %}
 
-## h2 h2 h2
+## RethinkIT News
 
-### h3 subtitle
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam <br>
- <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br><br>
+<p>Stay informed about the latest advancements, groundbreaking projects, and insightful articles. Dive into a wealth of information that highlights our commitment to innovation, technology, and the future of decentralized infrastructure networks.</p>
 
 <button onclick="yourlink">
   button
@@ -121,113 +87,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![placeholder](./img/img_section.png#mx-auto)
 
-
-
 {% end %}
 
-<!-- section 3 features title -->
+<!-- section 6 contact -->
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="narrow" padding="bottom") %}
 
-## middle title
-### subtitle
+<div class="container mx-auto">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+![placeholder](./img/img_section.png#mx-auto)
 
-<br>
+  ## Let's Connect!
 
-{% end %}
-
-{% row(style="center" margin="narrow" padding="none") %}
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+  <p>Our team is dedicated to fostering collaboration, innovation, and community engagement. Feel free to use the provided contact information or submit the online form. We look forward to hearing from you and exploring opportunities to create a decentralized and interconnected future together.</p>
 </div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-{% end %}
-
-<br>
-
-{% row(style="center" margin="narrow" padding="none") %}
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/img_column.png#sm#mx-auto)
-
-#### Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</div>
-
-{% end %}
-
-<!-- section 5 subscription -->
-
-{% row(style="left" margin="withContainer" padding="both") %}
-
-![](./img/img_portrait.png#mx-auto)
-
-|||
-
-## h2 h2 h2
-### h3 h3 h3 h3
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<br>
-
-<button onclick="yourlink">
-  button
-</button>
 
 {% end %}
 

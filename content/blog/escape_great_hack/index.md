@@ -30,7 +30,7 @@ In addition to that, the Internet is extremely centralized, with most of these d
 The Internet needs to be more distributed, cost-effective, neutral, and sustainable. ThreeFold has developed such a new technology, the ThreeFold Grid (Grid) and a token which enables all this to happen.
 <br/>
 <br/>
-Combining the values of the ThreeFold Foundation (freedom, equality and fairness) with the technology developed by RethinkIT, previously called TFTech, (Zero-OS, Zero-Chain, 3Bot) and a digital currency called the ThreeFold Token (a decentralized digital currency and means of payment to exchange autonomous and decentralized Internet services)  we believe that we have all the tools in order to actually make a difference in tomorrow's digital world. Question is, are you ready to join us? 
+Combining the values of the ThreeFold Foundation (freedom, equality and fairness) with the technology developed by TFTech (Zero-OS, Zero-Chain, 3Bot) and a digital currency called the ThreeFold Token (a decentralized digital currency and means of payment to exchange autonomous and decentralized Internet services)  we believe that we have all the tools in order to actually make a difference in tomorrow's digital world. Question is, are you ready to join us? 
 <br/>
 <br/>
 Please visit [our forum](https://forum.threefold.io) if you have any questions or would like to continue the conversation!
