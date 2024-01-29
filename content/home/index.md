@@ -69,7 +69,7 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/node.png#md#mx-auto)
+  ![Image](./img/node2.png#md#mx-auto)
 
  ### 3Nodes
   Cutting-edge hardware units, eco-friendly, self-sustaining, and versatile for diverse applications, enhancing security and data privacy

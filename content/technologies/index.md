@@ -74,7 +74,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/node.png#mx-auto)
+![placeholder](./img/node2.png#mx-auto)
 
 {% end %}
 
