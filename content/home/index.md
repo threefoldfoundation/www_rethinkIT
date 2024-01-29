@@ -159,7 +159,7 @@ weight: 1
 
 <div class="container mx-auto">
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/astronaut3.png#md#mx-auto)
 
   ## Let's Connect!
 

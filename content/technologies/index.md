@@ -29,7 +29,7 @@ weight: 1
 
 <div class="container mx-auto"> 
 
-  ![](./img/img_portrait.png#mx-auto)
+  ![](./img/depin3.png#mx-auto)
 
 </div>
 

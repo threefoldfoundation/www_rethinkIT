@@ -31,7 +31,7 @@ weight: 1
 
 |||
 
-## The ThreeFold Grid
+## ThreeFold Grid
 
 Our technology powers ThreeFold, a decentralized DePIN project that has achieved remarkable scalability. Our third-generation software, deployed within the project, has demonstrated its ability to facilitate network expansion and widespread utilization. Today, this network stands as the largest of its kind globally. It not only exemplifies the power of our technology but also signifies a groundbreaking shift towards a more decentralized, efficient, and accessible internet ecosystem that empowers users worldwide.
 
@@ -43,7 +43,7 @@ Our technology powers ThreeFold, a decentralized DePIN project that has achieved
 
 {% row(style="right" margin="withContainer" padding="bottom") %}
 
-## Tanzania Sovereign Internet
+## Tanzania's Sovereign Internet
 
 RethinkIT's technology plays a pivotal role in Tanzania's ambitious mission to establish its sovereign internet infrastructure. This is a game-changer for Tanzania, as the nation faces annual economic losses surpassing $10 billion due to its reliance on external internet infrastructure. By harnessing RethinkIT's advanced solutions, Tanzania is taking control of its digital destiny, increasing economic growth, and bolstering its sovereignty and national security to create a more resilient digital ecosystem.
 
