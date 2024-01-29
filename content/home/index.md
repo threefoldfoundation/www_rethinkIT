@@ -69,7 +69,7 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/node.png#md#mx-auto)
+  ![Image](./img/3node2.png#md#mx-auto)
 
  ### 3Nodes
   Cutting-edge hardware units, eco-friendly, self-sustaining, and versatile for diverse applications, enhancing security and data privacy
@@ -81,7 +81,7 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/zero.png#md#mx-auto)
+  ![Image](./img/zero1.png#md#mx-auto)
 
   #### Zero-OS
   Innovative OS for decentralized efficiency and security. Lightweight, secure, adaptable—pioneering the future of computing
@@ -124,7 +124,7 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/city6.png#mx-auto)
+![placeholder](./img/city66.png#mx-auto)
 
 |||
 
