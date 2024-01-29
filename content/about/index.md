@@ -13,10 +13,11 @@ weight: 2
 
 <div class="px-4 md:px-16 lg:px-28">
 
-  # About RethinkIT
+![Image](./img/world.png#md#mx-auto)
+
+  # About Us
 
   <p>RethinkIT is an innovative software technology company that has built a decentralized, autonomous, computing platform. Our unique technology provides unparalleled sovereignty, scalability and efficiency features that emerging IT workloads require, and that traditional cloud infrastructures cannot deliver.</p>
-
 
 </div>
 
@@ -28,7 +29,7 @@ weight: 2
 
 <div class="container mx-auto"> 
 
-  ![](./img/img_portrait.png#mx-auto)
+  ![](./img/codingman.png#mx-auto)
 
 </div>
 
@@ -47,7 +48,8 @@ weight: 2
 
   <br>
 
-  <button onclick="/about">Learn More</button>
+   <button>[Learn More](/technologies)</button>
+
 </div>
 
 {% end %}
@@ -61,6 +63,8 @@ weight: 2
 <div class="container mx-auto"> 
 
   ## Our History
+
+   ![Image](./img/moon4.png#md#mx-auto)
 
   <p>RethinkIT has been at the forefront of solving global internet challenges, boasting a visionary team with 30+ years of experience. Our history is marked by seven successful exits, multiple world records, and a trail of groundbreaking inventions, from scalable content routing to Zeta-Byte storage systems. With a global impact that spans scaling websites during the internet's infancy to delivering cutting-edge data center solutions, we've consistently tackled complex challenges, leaving an indelible mark on the tech landscape for over four decades.</p>
 </div>
@@ -139,27 +143,6 @@ weight: 2
 
 <!-- section 4 solutions -->
 
-{% row(style="left" margin="withContainer" padding="bottom") %}
-
-![placeholder](./img/img_section.png#mx-auto)
-
-|||
-
-## RethinkIT's DePIN Vision
-
-
-<p>At RethinkIT, we recognize the immense economic losses nations face without their own internet infrastructure. Our dedication to the DePIN movement is rooted in reversing this trend, providing essential Storage, Network, Compute, and AI capabilities to transform nations into digital powerhouses. Our vision aligns with the evolving landscape of DePIN and AI technologies, ensuring a future of digital empowerment. We stand at the forefront of DePIN, committed to crafting a sustainable and eco-friendly digital future.</p>
-
-<br>
-
-<button onclick="yourlink">
-  Our Technology
-</button>
-
-{% end %}
-
-<!-- section 5 news -->
-
 {% row(style="right" margin="withContainer" padding="bottom") %}
 
 ## About OurWorld
@@ -171,13 +154,11 @@ weight: 2
 <p>OurWorld, is a distinguished Venture Creator with a track record of innovation and success. With seven exits in the last two decades within the high-tech storage and cloud space, OurWorld has been a catalyst for groundbreaking projects through its subsidiary, Incubaid.
 </p>
 
-<button onclick="https://ourworld.tf/ ">
-  Learn More
-</button>
+<button>[Learn More](https://ourworld.tf/)</button>
 
 |||
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/ourworld2.png#mx-auto)
 
 {% end %}
 

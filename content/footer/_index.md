@@ -10,53 +10,53 @@ extra:
 
 {% row(style="lean") %}
 
-##### Affiliate Projects
-
-<br>
-
-<a onclick="window.open('https://threefold.io', '_blank')"><h6>ThreeFold</h6></a>
-
-###### [Incubaid](https://manual.grid.tf/threefold_token/buy_sell_tft/buy_sell_tft.html)
-
-###### [Mazraa](https://dashboard.grid.tf/)
-
-###### [Freeflow Nation](https://manual.grid.tf/farmers/farmers.html)
-
-|||
-
-##### OurWorld
-
-<br>
-
-<a onclick="window.open('https://ourworld.tf', '_blank')"><h6>OurWorld</h6></a>
-
-###### [Freezone](/)
-
-<a onclick="window.open('https://ourphone.ourworld.tf/', '_blank')"><h6>OurPhone</h6></a>
-
-<a onclick="window.open('https://ourparadise.ourworld.tf/', '_blank')"><h6>OurParadise</h6></a>
-
-<a onclick="window.open('https://ournomads.ourworld.tf/', '_blank')"><h6>OurNomads</h6></a>
-
-
-|||
-
 ##### About Us
 
 <br>
 
-<a onclick="window.open('https://ourworldfreezone.github.io/info_freezone/', '_blank')"><h6>Knowledgebase</h6></a>
+###### [Mission](/about)
+
+###### [People](/people)
+
+###### [OurWorld](https://ourworld.tf/)
 
 ###### [Blog](/blog)
 
-<a onclick="window.open('https://t.me/threefoldnews', '_blank')"><h6>Telegram</h6></a>
+###### [Telegram](/blog)
+
+###### [Support](/blog)
+
+|||
+
+##### Technology
+
+<br>
+
+###### [Manual](https://manual.grid.tf/)
+
+###### [DePIN](https://www.techopedia.com/definition/decentralized-physical-infrastructure-networks-depin)
+
+###### [3Nodes](https://manual.grid.tf/intro/grid3_howitworks.html)
+
+###### [Zero-0S](https://manual.grid.tf/technology/zos/benefits/zos_advantages_toc.html)
+
+###### [Quantum Safe Storage](https://manual.grid.tf/technology/qsss/qsss_home.html)
+
+###### [Mycelium](https://threefoldfoundation.github.io/info_cloud_production/tfcloud/mycelium/mycelium.html)
 
 
-<a onclick="window.open('https://threefoldfaq.crisp.help/en/', '_blank')"><h6>Support</h6></a>
 
+|||
 
-<a onclick="window.open('https://github.com/ourworldfreezone', '_blank')"><h6>Github</h6></a>
+##### Use Cases
 
+<br>
+
+###### [ThreeFold Grid](https://www.threefold.io/)
+
+###### [Tanzania Sovereign Internet](https://www.thecitizen.co.tz/tanzania/news/national/sovereign-internet-a-game-changer-to-tanzania-startups-ecosystem-growth-4498060)
+
+###### [Zanzibar Digital FreeZone](https://freezone.ourworld.tf/)
 {% end %}
 
 

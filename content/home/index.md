@@ -13,13 +13,11 @@ weight: 1
 
 <div class="px-4 md:px-16 lg:px-28">
 
+![Image](./img/map2.png#mx-auto)
+
   # RethinkIT
 
   <p>Explore the limitless potential of DePIN (Decentralized Physical Infrastructure Networks). Join us in creating a future where communities govern and contribute to the development of real-world infrastructure networks, democratizing ownership and fostering a participatory economic model.</p>
-
-  <button onclick="yourlink">
-  button
-  </button>
 
 </div>
 
@@ -31,7 +29,7 @@ weight: 1
 
 <div class="container mx-auto"> 
 
-  ![](./img/img_portrait.png#mx-auto)
+  ![](./img/datacenter.png#mx-auto)
 
 </div>
 
@@ -45,7 +43,7 @@ weight: 1
 
   <br>
 
-  <button onclick="/about">Learn More</button>
+  <button>[About Us](/about)</button>
 </div>
 
 {% end %}
@@ -71,10 +69,11 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/node.png#md#mx-auto)
 
  ### 3Nodes
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  Cutting-edge hardware units, eco-friendly, self-sustaining, and versatile for diverse applications, enhancing security and data privacy
+
 
 </div>
 
@@ -82,10 +81,11 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/zero.png#md#mx-auto)
 
   #### Zero-OS
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  Innovative OS for decentralized efficiency and security. Lightweight, secure, adaptable—pioneering the future of computing
+
 </div>
 
 {% end %}
@@ -96,21 +96,27 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/quantum.png#md#mx-auto)
 
   #### QSFS
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  Revolutionizing data security. 10x efficiency, immune to quantum attacks—RethinkIT's commitment to ultra-secure storage
 </div>
 
 |||
 
 <div class="mx-4 my-4">
 
-  ![Image](./img/img_column_item.png#md#mx-auto)
+  ![Image](./img/mycelium2.png#md#mx-auto)
 
   #### Mycelium
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  Innovative overlay network for efficient, secure data communication. Fortified with end-to-end encryption
 </div>
+
+{% end %}
+
+{% row(style="center" reverse="rightreserve" padding="bottom" style="center" margin="none") %}
+
+ <button>[Learn More](/technologies)</button>
 
 {% end %}
 
@@ -118,17 +124,16 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/city6.png#mx-auto)
 
 |||
 
-## Transformative Solutions 
+## Transformative Solutions
 
 <p>Explore how RethinkIT's innovative solutions address global infrastructure challenges, enabling self-sufficient internet systems and decentralized IT infrastructure.</p>
 
-<button onclick="yourlink">
-  button
-</button>
+ <button>[Use-Cases](/solutions)</button>
+
 
 {% end %}
 
@@ -136,17 +141,15 @@ weight: 1
 
 {% row(style="right" margin="withContainer" padding="bottom") %}
 
-## RethinkIT News
+## RethinkIT Blog
 
 <p>Stay informed about the latest advancements, groundbreaking projects, and insightful articles. Dive into a wealth of information that highlights our commitment to innovation, technology, and the future of decentralized infrastructure networks.</p>
 
-<button onclick="yourlink">
-  button
-</button>
+ <button>[Read More](/blog)</button>
 
 |||
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/news.png#mx-auto)
 
 {% end %}
 
@@ -156,11 +159,14 @@ weight: 1
 
 <div class="container mx-auto">
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/astronaut3.png#md#mx-auto)
 
   ## Let's Connect!
 
   <p>Our team is dedicated to fostering collaboration, innovation, and community engagement. Feel free to use the provided contact information or submit the online form. We look forward to hearing from you and exploring opportunities to create a decentralized and interconnected future together.</p>
+
+   <button>[Contact Us](/contact)</button>
+
 </div>
 
 {% end %}
