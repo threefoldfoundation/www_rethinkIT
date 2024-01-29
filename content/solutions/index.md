@@ -27,7 +27,7 @@ weight: 1
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/threefold3.png#mx-auto)
 
 |||
 
@@ -51,7 +51,7 @@ RethinkIT's technology plays a pivotal role in Tanzania's ambitious mission to e
 
 |||
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/tanzania.png#mx-auto)
 
 {% end %}
 
@@ -59,7 +59,7 @@ RethinkIT's technology plays a pivotal role in Tanzania's ambitious mission to e
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/img_section.png#mx-auto)
+![placeholder](./img/freezone.png#mx-auto)
 
 |||
 

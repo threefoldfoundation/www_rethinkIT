@@ -13,11 +13,12 @@ weight: 1
 
 <div class="px-4 md:px-16 lg:px-28">
 
+ ![Image](./img/cloud.png#md#mx-auto)
+
   # Our Technology
 
   <p>In a world of rapid technological change, traditional approaches no longer suffice. RethinkIT has created a technology layer to make DePIN feasible and effective on a global scale. Our solutions prioritize security, efficiency, and sustainability. By choosing to RethinkIT, businesses and individuals align with a vision that is not just about meeting today's needs but proactively shaping a more advanced and sustainable digital future. </p>
 
-  ![Image](./img/cloud.png#mx-auto)
 
 </div>
 

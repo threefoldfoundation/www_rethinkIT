@@ -17,7 +17,7 @@ weight: 0
 
 # Get in touch with RethinkIT
 
-Whether you're exploring partnership possibilities, seeking information, or just want to connect, we're thrilled to hear from you. <br>
+Whether you're exploring partnership possibilities, seeking information, or just want to connect, we are thrilled to hear from you. <br>
 
 <button>[Contact Us](mailto:info@ourworld.tf)</button>
 
@@ -45,30 +45,5 @@ Whether you're exploring partnership possibilities, seeking information, or just
 
 Stay in the loop with our latest updates and news on Telegram. <br>
 Join our channel here for real-time insights and announcements. 
-
-{% end %}
-
-<!-- section 6 in the news -->
-
-<br>
-<br>
-<br>
-
-
-{% row(style="center" padding="bottom") %}
-
-[![logo1](img/logo_bottom.png#small)](yourlink)
-
-|||
-
-[![logo2](img/logo_bottom.png#small)](yourlink)
-
-|||
-
-[![logo3](img/logo_bottom.png#small)](yourlink)
-
-|||
-
-[![logo4](img/logo_bottom.png#small)](yourlink)
 
 {% end %}
